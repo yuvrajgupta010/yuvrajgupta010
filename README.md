@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Yuvraj Gupta
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvrajgupta010&label=Profile%20views&color=0e75b6&style=flat" alt="yuvrajgupta010" /> </p>
 I'm a full-stack developer with over a year of experience in building scalable and performant applications, especially within fast-paced environments. My background includes crafting seamless user experiences, designing RESTful APIs, and working with cloud infrastructure. Passionate about delivering efficient solutions and continuously expanding my technical expertise.
 
 - 🔭 I’m currently working on **Node.js**, **Express.js**, **React.js**, **Next.js**, and **AWS**.
@@ -17,4 +17,3 @@ I'm a full-stack developer with over a year of experience in building scalable a
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ![](https://hit.yhype.me/github/profile?account_id=83709965)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvrajgupta010&label=Profile%20views&color=0e75b6&style=flat" alt="yuvrajgupta010" /> </p>
