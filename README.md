@@ -17,3 +17,4 @@ I'm a full-stack developer with over a year of experience in building scalable a
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ![](https://hit.yhype.me/github/profile?account_id=83709965)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvrajgupta010&label=Profile%20views&color=0e75b6&style=flat" alt="yuvrajgupta010" /> </p>
