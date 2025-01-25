@@ -16,5 +16,4 @@ I'm a full-stack developer with over a year of experience in building scalable a
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-[![](https://visitcount.itsvg.in/api?id=yuvrajgupta010&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
+![](https://hit.yhype.me/github/profile?account_id=83709965)
