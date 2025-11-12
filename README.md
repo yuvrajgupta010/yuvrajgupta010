@@ -1,16 +1,19 @@
-### Hi there 👋, I am Yuvraj Gupta
+### Hi there 👋, I’m Yuvraj Gupta  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvrajgupta010&label=Profile%20views&color=0e75b6&style=flat" alt="yuvrajgupta010" /> </p>
-I'm a full-stack developer with over a year of experience in building scalable and performant applications, especially within fast-paced environments. My background includes crafting seamless user experiences, designing RESTful APIs, and working with cloud infrastructure. Passionate about delivering efficient solutions and continuously expanding my technical expertise.
 
-- 🔭 I’m currently working on **Node.js**, **Express.js**, **React.js**, **Next.js**, and **AWS**.
-- 🌱 I’m diving into **Message Queues**, **Redis**, and **fintech solutions** to enhance backend efficiency and scalability.
-- 💬 Ask me about **REST APIs**, **authentication mechanisms**, and **full-stack development**.
+I’m a Full-Stack Developer passionate about transforming complex systems into scalable, efficient, and maintainable web applications. I enjoy solving real engineering challenges — from optimizing backend architectures to creating seamless frontend experiences that drive business impact.  
+Currently, I’m modernizing cloud telephony systems at scale by rebuilding legacy PHP platforms into modular React and Nest.js applications — while ensuring performance, security, and clarity in every layer.
+
+- 🔭 I’m currently working with **React.js**, **Nest.js**, **MySQL**, **Redis**, **Message Queues**, **Socket.io**, and **AWS** to build real-time, distributed systems.  
+- 🧩 Refactoring and modularizing large AI-generated codebases — breaking thousands of tangled lines into clean, maintainable modules.  
+- 🤖 Exploring **Agentic AI integrations** into web applications to create more autonomous, intelligent, and context-aware experiences.  
+- 💬 Let’s talk about **system design**, **API optimization**, or **frontend architecture for scale**.  
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/yuvrajgupta036)
 
-### Languages and Tools I've Used
+### 🧠 Languages & Tools
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,html,css,bootstrap,sass,react,nextjs,redux,aws,mongodb,redis,git,github,postman,docker,kubernetes,jenkins,vercel,netlify,linux&perline=7" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,nextjs,redux,html,css,tailwind,bootstrap,mysql,mongodb,redis,aws,docker,git,github,postman,vercel,netlify,linux&perline=7" />
 </p>
 <br><br>
 
