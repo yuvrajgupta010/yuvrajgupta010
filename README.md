@@ -10,6 +10,13 @@ Currently, I’m modernizing cloud telephony systems at scale by rebuilding lega
 - 💬 Let’s talk about **system design**, **API optimization**, or **frontend architecture for scale**.  
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/yuvrajgupta036)
 
+### ✊ Leetcode
+<br>
+<p align="center">
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=yuvrajgupta036&theme=light&border=border&animated=true" />
+</p>
+<br><br>
+
 ### 🧠 Languages & Tools
 <br>
 <p align="center">
